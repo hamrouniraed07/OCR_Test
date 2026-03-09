@@ -1,0 +1,33 @@
+# Core dependencies
+paddlepaddle>=2.5.0
+paddleocr>=2.7.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+numpy>=1.24.0
+pdf2image>=1.16.3
+pytesseract>=0.3.10
+
+# LLM APIs
+openai>=1.12.0
+google-genai>=0.3.0
+
+# Arabic text processing
+pyarabic>=0.6.15
+python-bidi>=0.4.2
+arabic-reshaper>=3.0.0
+
+# Data processing
+pydantic>=2.5.0
+python-dotenv>=1.0.0
+
+# Web interface (optional)
+fastapi>=0.109.0
+uvicorn>=0.27.0
+python-multipart>=0.0.6
+
+# Utilities
+tqdm>=4.66.0
+colorama>=0.4.6
+
+# Web interface
+streamlit>=1.28.0
